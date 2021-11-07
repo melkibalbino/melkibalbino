@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/melkibalbino?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melkibalbino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=melkibalbino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkibalbino&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
